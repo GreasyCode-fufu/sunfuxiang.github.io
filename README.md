@@ -1,2 +1,3 @@
 # Diary
-Record life
+### Record life
+🥣This document records my life and emotions.
