@@ -2,6 +2,10 @@
 
 ## 祸兮福所倚，福兮祸所伏
 
+### Growth is the best part of life. Making mistakes is a part of that best life.
+
+
+
 # 严重提示：不要发朋友圈，思想问题！
 
 [3月](./text/3月.md)
