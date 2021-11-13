@@ -1,4 +1,4 @@
-﻿## 劝学
+﻿﻿## 劝学
 
 荀子〔先秦〕
 
@@ -40,6 +40,71 @@
 
 ---
 
+# The Good and the Bad of Journaling
 
+Just about every self-help book and expert appearing on daytime talk shows urges some form of journaling as an aid to self-discovery and personal growth. There’s a lot of advice out there about how to journal, some of it good, much of it bad.
+
+Outcome research on the benefits of journaling shows mixed results. Sometimes keeping a journal of your thoughts, feelings, and experiences helps, but often it makes things worse. In general, it is likely to hurt if it tries to help you “know yourself” in isolation and helps if it leads to greater understanding and behavior change in your interactions with others.
+
+Journaling can have a positive effect on your behavior and well being if it:
+
+- Makes you step back and evaluate your thoughts, emotions, and behavior
+
+- Explores solutions
+
+- Brings your emotions and motivations into alignment with your deepest values
+
+- Converts negative energy into positive creativity and growth
+
+- Lowers your emotional reactivity to others
+
+- Increases tolerance of ambiguity, ambivalence, and unpredictability, which are part of normal living
+
+- Helps you see other people’s perspectives alongside your own
+
+- Makes you feel more humane
+
+- Helps you take a definite course of action.
+
+Journaling can have a negative effect on your behavior and well being if it:
+
+- Makes you live too much in your head
+
+- Makes you a passive observer of your life (thinking about how you’ll record it instead of experiencing what is happening)
+
+- Makes you self-obsessed
+
+- Becomes a vehicle of blame instead of solutions
+
+- Wallows in negative things that have happened to you.
+
+Below is a guide to reap the benefits of journaling while avoiding the pitfalls.
+
+  Write a few sentences about a problem or negative feelings that you believe need expression.
+
+- Try to look objectively at the thoughts, emotions, and behavior you expressed.
+- Would you think the same if you felt comfortable?
+- Can you convert the negative energy of this experience into positive creativity and growth?
+- Would you feel the same if you were firmly in touch with your core values?
+- Are you acting according to your deepest values and the kind of person you want to be?
+
+2. Write a few sentences about how your description above is in keeping with your deepest values.
+
+3. Write a few sentences considering each of the following:
+
+- What can you learn from this matter?
+- How can you grow from this experience?
+- How can what you learned make the world a better place and you a better person?
+- Can you tolerate a certain amount of ambiguity or lack of clarity about this matter?
+- Is it okay to have mixed feelings about the matter you described above?
+- Can you raise your confidence to deal with the worst-case scenario, should it occur?
+- Do you have a plan of action should the worst-case scenario happen?
+- What are the perspectives of other people in your problem description?
+- How would they describe the events?
+- What core hurts might they be experiencing or avoiding (unimportant, guilty, devalued, powerless, inadequate, or unlovable)?
+- Are you being as humane and compassionate as you want to be?
+- Do you think the other people involved in your description are more frail than cruel or evil?
+
+4. Describe what you will do to improve the situation you described above. If you can't improve the situation, describe what you can do to improve your experience of it, i.e., how you can make it more pleasant or less uncomfortable for yourself.
 
 [目录](./SUMMARY.md)
