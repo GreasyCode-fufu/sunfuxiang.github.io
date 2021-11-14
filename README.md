@@ -1,4 +1,4 @@
-﻿﻿## 劝学
+﻿# 劝学
 
 荀子〔先秦〕
 
@@ -80,7 +80,7 @@ Journaling can have a negative effect on your behavior and well being if it:
 
 Below is a guide to reap the benefits of journaling while avoiding the pitfalls.
 
-  Write a few sentences about a problem or negative feelings that you believe need expression.
+ Write a few sentences about a problem or negative feelings that you believe need expression.
 
 - Try to look objectively at the thoughts, emotions, and behavior you expressed.
 - Would you think the same if you felt comfortable?
@@ -88,9 +88,9 @@ Below is a guide to reap the benefits of journaling while avoiding the pitfalls.
 - Would you feel the same if you were firmly in touch with your core values?
 - Are you acting according to your deepest values and the kind of person you want to be?
 
-2. Write a few sentences about how your description above is in keeping with your deepest values.
+Write a few sentences about how your description above is in keeping with your deepest values.
 
-3. Write a few sentences considering each of the following:
+Write a few sentences considering each of the following:
 
 - What can you learn from this matter?
 - How can you grow from this experience?
@@ -105,6 +105,6 @@ Below is a guide to reap the benefits of journaling while avoiding the pitfalls.
 - Are you being as humane and compassionate as you want to be?
 - Do you think the other people involved in your description are more frail than cruel or evil?
 
-4. Describe what you will do to improve the situation you described above. If you can't improve the situation, describe what you can do to improve your experience of it, i.e., how you can make it more pleasant or less uncomfortable for yourself.
+Describe what you will do to improve the situation you described above. If you can't improve the situation, describe what you can do to improve your experience of it, i.e., how you can make it more pleasant or less uncomfortable for yourself.
 
 [目录](./SUMMARY.md)
